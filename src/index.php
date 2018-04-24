@@ -15,8 +15,8 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App TEST 2</h1>
-                <h2>Congratulations</h2>
+                <h1>TEST 2</h1>
+                <h2>cloudpack</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
